@@ -247,3 +247,5 @@ With the steps above, you can safely:
 ---
 
 💡 *Tip: Run this cleanup every few weeks if you're actively coding.*
+
+u can also use mole
